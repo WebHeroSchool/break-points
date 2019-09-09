@@ -1,0 +1,35 @@
+@media (min-width: 320px) {
+	.header__title {
+		font-size: 16px;
+	}
+}
+
+@media (min-width: 481px) {
+	.header__title {
+		font-size: 20px;
+	}
+}
+
+@media (min-width: 641px) {
+	.header__title {
+		font-size: 26px;
+	}
+}
+
+@media (min-width: 961px) {
+	.header__title {
+		font-size: 42px;
+	}
+}
+
+@media (min-width: 1025px) {
+	.header__title {
+		font-size: 45px;
+	}
+}
+
+@media (min-width: 1281px) {
+	.header__title {
+		font-size: 50px;
+	}
+}
